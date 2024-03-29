@@ -41,9 +41,19 @@ Yellowfin Calls Types Classification: Explore the distinct calls of the yellowfi
 
 ![FADAR3](https://github.com/Aliklawat/-Fish-Acoustic-Detection-Algorithm-Research/assets/45046562/542dceed-0f3e-4908-971b-ef55ae59cc90)
 
+Versatile Processing Options
 
+Whether you’re analyzing a single audio file or an entire folder, FADAR offers the flexibility to match your project's scale:
+
+Process Single File: Ideal for targeted analysis of specific recordings.
+Process Folder: Effortlessly handle large datasets by processing entire folders of audio files.
 
 
 
 
 ![FADAR4](https://github.com/Aliklawat/-Fish-Acoustic-Detection-Algorithm-Research/assets/45046562/e8da37ad-2f56-4e8f-bc9b-f0da18b6a613)
+
+
+Elevate Your Marine Research with FADAR
+
+With its user-friendly interface and powerful analytical capabilities, FADAR is your go-to application for advanced marine species sound analysis. Unlock the secrets of the ocean with FADAR—where technology meets the depths of marine biology.
